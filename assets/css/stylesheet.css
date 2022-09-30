@@ -260,7 +260,7 @@ body {
 }
 
 .wt-border {
-	border-bottom: 2px solid #FFFFFF !important;
+	/* border-bottom: 2px solid #FFFFFF !important; */
 }
 
 .no-border {
