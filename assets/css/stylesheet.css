@@ -572,7 +572,7 @@ top: 994.02px; */
 @media only screen and (min-width: 240px) {
 
 	.navbar.past-main {
-		background: #FFFFFF !important;
+		/* background: #FFFFFF !important; */
 		border-bottom: 1px solid #EFEFF1;
 	}
 
