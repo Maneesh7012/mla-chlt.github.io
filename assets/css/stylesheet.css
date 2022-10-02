@@ -159,14 +159,15 @@ body {
   font-family: 'Lexend';
 	padding: 20px 0;
 	/*height: 80px;*/
-	background-color: #FFFFFF !important;
+	/* background-color: #FFFFFF !important; */
+	background-color: #F4F7FE !important;
 	border-bottom: 1px solid #EFEFF1;
 	-webkit-transition: 0.5s all ease;
 	transition: 0.5s all ease;
 }
 
 .wt-border {
-	border-bottom: 2px solid #FFFFFF !important;
+	/* border-bottom: 2px solid #FFFFFF !important; */
 }
 
 .no-border {
@@ -205,7 +206,8 @@ body {
 
 .navbar-nav {
 	height: auto;
-	background: #FFFFFF;
+	/* background: #FFFFFF; */
+	background: #F4F7FE !important;
 	padding: 0 1.5rem;
 	display: flex;
 	align-items: center;
@@ -334,7 +336,7 @@ body {
 @media only screen and (min-width: 240px) {
 
 .navbar.past-main {
-	background: #FFFFFF !important;
+	background-color: #F4F7FE !important;
 	border-bottom: 1px solid #EFEFF1;
 }
 
