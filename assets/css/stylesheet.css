@@ -390,8 +390,9 @@ body {
 }
 
 .home {
-  padding: 50px 0 50px 0;
+  /* padding: 50px 0 50px 0; */
 	/* background: #f0f5f9; */
+	padding: 50px 0 0px 0;
 	background: #F4F7FE;
 }
 
@@ -1882,7 +1883,7 @@ top: 314px; */
 	flex-grow: 0;
 }
 
-.btn-register .signup {
+.signup {
 	position: relative;
 	left: 17px;
 	top: 8px;
@@ -1894,7 +1895,7 @@ top: 314px; */
 	/* identical to box height */
 
 
-	color: #F2F4F3;
+	color: #F2F4F3 !important;
 }
 
 .btn-visit {
@@ -2369,6 +2370,76 @@ top: 2532.49px; */
 
 	color: #FFFFFF;
 }
+
+/* pre-register */
+
+.ft-flex-register {
+	padding: 0 0;
+	background: #FFFFFF;
+}
+
+.ft-flex-form {
+	padding: 0 0;
+	background: #FFFFFF;
+}
+
+
+
+.ft-inner-register {
+	margin: 0;
+	background: #F4F7FE;
+	/* padding: 50px; */
+}
+
+.ft-inner-register-heading {
+	/* position: absolute; */
+	width: 278px;
+	height: 90px;
+	/* left: 65px;
+top: 47px; */
+
+	
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 60px;
+/* identical to box height, or 143% */
+
+
+color: #01426B;
+}
+
+.ft-inner-register-p {
+	/* width: 647px; */
+	/* height: 140px; */
+	/* left: 65px;
+top: 148px; */
+
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 35px;
+/* or 175% */
+text-align: justify;
+
+color: #313131;
+}
+
+.ft-inner-form {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	/* width: 1185px; */
+	background: #FFFFFF;
+	border-radius: 20px;
+}
+
 .footer-page-links {
 	font-family: 'Lexend';
 	font-style: normal;
