@@ -926,7 +926,7 @@ body {
 
 	.yd_rev_inner .rev-intro {
 		text-align: left;
-		margin-top: 30px;
+		/* margin-top: 30px; */
 		/* padding: 50px; */
 	}
 	.yd_rev_inner-1 .rev-intro-1 {
