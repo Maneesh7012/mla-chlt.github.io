@@ -1943,7 +1943,7 @@ color: #FFFFFF;
 .img-fluid {
 	max-width: 100%;
 	height: auto;
-	margin-top: 30px;
+	/* margin-top: 30px; */
 }
 
 .heading-1 {
@@ -2529,5 +2529,10 @@ color: #313131;
 		left: 0px;
 		max-width: 100%;
 		height: auto;
+	}
+	.img-fluid {
+		max-width: 100%;
+		height: auto;
+		margin-top: 30px;
 	}
 }
